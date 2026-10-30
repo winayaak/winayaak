@@ -35,7 +35,23 @@ Hi, I'm **Vinayak Singh**, a Computer Engineering student from **Mumbai, India**
 
 ## 🌱 Currently Learning
 
-`Spring Boot` · `React` · `Node.js` · `Express` · `MongoDB` · `REST APIs` · `Data Structures & Algorithms`
+- Java & Spring Boot
+- JavaScript, React & Node.js
+- Express & MongoDB (MERN stack)
+- REST API Development
+- Data Structures & Algorithms
+
+---
+
+## 🚀 Current Focus
+
+- Building end-to-end projects to get real-world software development experience
+- Finishing the JSP/Servlet MVC flow, then moving into Spring Boot
+- Shipping my final-year capstone, SAViR AI
+- Solving DSA problems consistently
+- Writing clean, reusable code
+
+> "Small, useful work over vague claims." 🚀
 
 ---
 
@@ -131,33 +147,44 @@ Final-year capstone: an AI platform that assesses, verifies and tracks developer
 
 ---
 
-## 📊 GitHub Stats
+## 🗺️ Learning Roadmap
 
-<div align="center">
+```mermaid
+flowchart LR
+    A([Core Java]) --> B([JSP & Servlets])
+    B --> C([JDBC + MySQL])
+    C --> D([Spring Boot])
+    D --> E([REST + Security])
+    E --> F([Docker + Deploy])
+    B -.-> G([HTML / CSS / JS / TS])
+    G --> H([React + Node + MongoDB])
+    H --> F
+    A -.-> I([DSA])
+    I -.-> D
+    F --> J{{Internship ready}}
 
-<img src="https://streak-stats.demolab.com/?user=winayaak&theme=radical&hide_border=true&background=0d1117" alt="streak"/>
+    style A fill:#22c55e,stroke:#16a34a,color:#fff
+    style B fill:#22c55e,stroke:#16a34a,color:#fff
+    style C fill:#22c55e,stroke:#16a34a,color:#fff
+    style G fill:#22c55e,stroke:#16a34a,color:#fff
+    style D fill:#f59e0b,stroke:#d97706,color:#fff
+    style H fill:#f59e0b,stroke:#d97706,color:#fff
+    style I fill:#f59e0b,stroke:#d97706,color:#fff
+    style E fill:#64748b,stroke:#475569,color:#fff
+    style F fill:#64748b,stroke:#475569,color:#fff
+    style J fill:#8b5cf6,stroke:#7c3aed,color:#fff
+```
 
-<br/>
+> 🟢 done &nbsp;·&nbsp; 🟠 in progress &nbsp;·&nbsp; ⚪ upcoming
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=winayaak&layout=compact&theme=radical&hide_border=true&langs_count=8&bg_color=0d1117" alt="top languages"/>
+## 🎯 Goals
 
-</div>
-
-### 🔥 Contribution Graph
-
-<div align="center">
-
-<img src="https://ghchart.rshah.org/8b5cf6/winayaak" alt="contribution graph" width="95%"/>
-
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/winayaak/winayaak/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/winayaak/winayaak/output/github-snake.svg" />
-  <img alt="snake" src="https://raw.githubusercontent.com/winayaak/winayaak/output/github-snake-dark.svg" />
-</picture>
-
-</div>
+- [x] Core Java: OOP, Strings, Exceptions, Collections
+- [x] JSP, Servlets, JDBC, MVC2 and two ERP-style projects
+- [ ] Build and ship a **Spring Boot** REST API with JWT auth
+- [ ] Build a **MERN** project and deploy it
+- [ ] Solve DSA problems consistently
+- [ ] Land a **software developer internship** 🚀
 
 ---
 
