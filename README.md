@@ -146,37 +146,6 @@ Final-year capstone: an AI platform that assesses, verifies and tracks developer
 </table>
 
 ---
-
-## 🗺️ Learning Roadmap
-
-```mermaid
-flowchart LR
-    A([Core Java]) --> B([JSP & Servlets])
-    B --> C([JDBC + MySQL])
-    C --> D([Spring Boot])
-    D --> E([REST + Security])
-    E --> F([Docker + Deploy])
-    B -.-> G([HTML / CSS / JS / TS])
-    G --> H([React + Node + MongoDB])
-    H --> F
-    A -.-> I([DSA])
-    I -.-> D
-    F --> J{{Internship ready}}
-
-    style A fill:#22c55e,stroke:#16a34a,color:#fff
-    style B fill:#22c55e,stroke:#16a34a,color:#fff
-    style C fill:#22c55e,stroke:#16a34a,color:#fff
-    style G fill:#22c55e,stroke:#16a34a,color:#fff
-    style D fill:#f59e0b,stroke:#d97706,color:#fff
-    style H fill:#f59e0b,stroke:#d97706,color:#fff
-    style I fill:#f59e0b,stroke:#d97706,color:#fff
-    style E fill:#64748b,stroke:#475569,color:#fff
-    style F fill:#64748b,stroke:#475569,color:#fff
-    style J fill:#8b5cf6,stroke:#7c3aed,color:#fff
-```
-
-> 🟢 done &nbsp;·&nbsp; 🟠 in progress &nbsp;·&nbsp; ⚪ upcoming
-
 ## 🎯 Goals
 
 - [x] Core Java: OOP, Strings, Exceptions, Collections
