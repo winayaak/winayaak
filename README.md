@@ -146,6 +146,15 @@ Final-year capstone: an AI platform that assesses, verifies and tracks developer
 </table>
 
 ---
+
+## 🔥 Contribution Graph
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/winayaak/winayaak/main/contributions-3d.svg" alt="3D contribution graph" width="100%"/>
+</div>
+
+---
+
 ## 🎯 Goals
 
 - [x] Core Java: OOP, Strings, Exceptions, Collections
