@@ -150,7 +150,7 @@ Final-year capstone: an AI platform that assesses, verifies and tracks developer
 ## 🔥 Contribution Graph
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/winayaak/winayaak/main/profile-3d-contrib/profile-night-green.svg" alt="3D contribution graph" width="100%"/>
+<img src="https://raw.githubusercontent.com/winayaak/winayaak/main/profile-3d-contrib/github-dark.svg" alt="3D contribution graph" width="100%"/>
 </div>
 
 ---
